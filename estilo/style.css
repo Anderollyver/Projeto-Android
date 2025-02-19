@@ -29,8 +29,6 @@ body {
 header {
     /* background-color: var(--cor3); */
     /* background-image: linear-gradient(to bottom, var(--cor3), var(--cor4)); */
-    width: 100%;
-    height: 150px;
     background-image: linear-gradient(to bottom, transparent, #2fa865fa ), url(../imagens/android.jpg);
     background-repeat: no-repeat;
     background-position:  center top;
